@@ -16044,11 +16044,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11460792, guid: cbe5119cf3bbba94aabd5ace819dae01, type: 3}
       propertyPath: settings.url
-      value: 192.168.115.163
+      value: 31.220.55.122
       objectReference: {fileID: 0}
     - target: {fileID: 11460792, guid: cbe5119cf3bbba94aabd5ace819dae01, type: 3}
       propertyPath: settings.port
-      value: 5002
+      value: 80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cbe5119cf3bbba94aabd5ace819dae01, type: 3}
@@ -22526,8 +22526,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 5809214862376099221}
   m_HandleRect: {fileID: 5809214862376099222}
   m_Direction: 2
-  m_Value: 0.9932282
-  m_Size: 0.27867845
+  m_Value: 0.99322814
+  m_Size: 0.36731696
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
